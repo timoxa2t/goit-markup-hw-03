@@ -31,7 +31,7 @@ body {
   color: var(--main-color);
 }
 
-ul{
+ul {
   padding: 0;
 }
 
@@ -57,7 +57,7 @@ img {
   height: auto;
 }
 
-.section{
+.section {
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -77,7 +77,7 @@ img {
   font-weight: var(--title-font-weight);
 }
 
-.visualy-hidden{
+.visualy-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -153,8 +153,8 @@ img {
 }
 
 .header-contacts-list {
-    display: flex;
-    margin-left: auto;
+  display: flex;
+  margin-left: auto;
 }
 
 .header-contacts-link {
