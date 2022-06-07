@@ -21,9 +21,6 @@
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
   font-family: var(--main-font);
   letter-spacing: var(--main-letter-spacing);
   background: var(--main-background-color);
@@ -305,7 +302,6 @@ img {
 .advantages-list-item-text {
   line-height: 1.72;
   color: var(--secondary-color);
-  text-align: justify;
 }
 /* advantages (end) */
 
@@ -439,6 +435,7 @@ img {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
+  margin-bottom: 4px;
 }
 
 .project-type {
